@@ -4,10 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Rajeev Singh. I have the following qualities:
+My name is  Rajeev Singh. I have the following qualities:
 
 - I am a technology enthusiast
 - I'm extremely loyal to my family
+- I love funny and simple people to interact with
+- I am a great story teller
 
 What else do you need?
 
